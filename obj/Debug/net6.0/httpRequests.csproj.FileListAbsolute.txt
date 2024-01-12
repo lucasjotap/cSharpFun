@@ -1,0 +1,15 @@
+/home/lucas/Desktop/c#/httpRequest/httpRequests/bin/Debug/net6.0/httpRequests
+/home/lucas/Desktop/c#/httpRequest/httpRequests/bin/Debug/net6.0/httpRequests.deps.json
+/home/lucas/Desktop/c#/httpRequest/httpRequests/bin/Debug/net6.0/httpRequests.runtimeconfig.json
+/home/lucas/Desktop/c#/httpRequest/httpRequests/bin/Debug/net6.0/httpRequests.dll
+/home/lucas/Desktop/c#/httpRequest/httpRequests/bin/Debug/net6.0/httpRequests.pdb
+/home/lucas/Desktop/c#/httpRequest/httpRequests/obj/Debug/net6.0/httpRequests.csproj.AssemblyReference.cache
+/home/lucas/Desktop/c#/httpRequest/httpRequests/obj/Debug/net6.0/httpRequests.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Desktop/c#/httpRequest/httpRequests/obj/Debug/net6.0/httpRequests.AssemblyInfoInputs.cache
+/home/lucas/Desktop/c#/httpRequest/httpRequests/obj/Debug/net6.0/httpRequests.AssemblyInfo.cs
+/home/lucas/Desktop/c#/httpRequest/httpRequests/obj/Debug/net6.0/httpRequests.csproj.CoreCompileInputs.cache
+/home/lucas/Desktop/c#/httpRequest/httpRequests/obj/Debug/net6.0/httpRequests.dll
+/home/lucas/Desktop/c#/httpRequest/httpRequests/obj/Debug/net6.0/refint/httpRequests.dll
+/home/lucas/Desktop/c#/httpRequest/httpRequests/obj/Debug/net6.0/httpRequests.pdb
+/home/lucas/Desktop/c#/httpRequest/httpRequests/obj/Debug/net6.0/httpRequests.genruntimeconfig.cache
+/home/lucas/Desktop/c#/httpRequest/httpRequests/obj/Debug/net6.0/ref/httpRequests.dll
