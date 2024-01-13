@@ -16,7 +16,7 @@ class RequestClient
 			}
 			return _httpClient;
 		}
-	} // 
+	} //
 
 	static async Task Main(string[] args)
 	{
@@ -35,7 +35,6 @@ class RequestClient
 		{
 			Console.WriteLine($"Error: {response.StatusCode}");
 		}
-		
 		requestClient.HttpClient.Dispose();
 	}
 }
