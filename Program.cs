@@ -4,10 +4,10 @@ using System.Threading.Tasks;
 
 class RequestClient 
 {
-	private HttpClient _httpClient;
+	private HttpClient _httpClient; // field, since it's just variable that belongs to this object.
 
-	public HttpClient HttpClient
-	{
+	public HttpClient HttpClient // property, since it exposes access to the aforementioned field.
+	{ // Also, here we are using lazy initialization.
 		get
 		{
 			if (_httpClient == null)
@@ -16,7 +16,7 @@ class RequestClient
 			}
 			return _httpClient;
 		}
-	} //
+	}
 
 	static async Task Main(string[] args)
 	{
